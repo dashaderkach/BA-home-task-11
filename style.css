@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 50px auto;
+	width:400px;
+	
+}
+.flex-container{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #80808073;
+	margin: auto;
+}
+
+svg{
+  margin: auto;
+  display: block;
+}
+
+
+.design-svg1 path{
+	fill: #0000ff;
+}
+.design-svg2 path{
+ fill: #f44336;
+}
+
+.design-svg3 path{
+stroke: #ffffff;
+fill: none;
+}
+
