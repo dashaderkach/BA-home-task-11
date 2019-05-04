@@ -13,11 +13,14 @@ body{
 	align-items: center;
 	background-color: #80808073;
 	margin: auto;
+	padding-left: 100px;
+	padding-right: 50px;
 }
 
 svg{
   margin: auto;
   display: block;
+  padding: 20px 0; 
 }
 
 
